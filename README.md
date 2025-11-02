@@ -19,8 +19,6 @@ Frontend	React.js, Axios, Tailwind CSS
 Backend	Node.js, Express.js
 Database	MongoDB (Mongoose)
 API Testing	Postman
-Package Manager	npm or yarn
-📁 Folder Structure
 project/
 │
 ├── client/              # React Frontend
@@ -106,7 +104,3 @@ Tailwind CSS for styling
 
 💪 Author
   G I R I
-
-💪 Author
-
-G I R I
